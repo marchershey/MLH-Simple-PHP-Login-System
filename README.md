@@ -1,12 +1,12 @@
 # MLH - Simple PHP Login System
 
-**Current Version:** 1.0.0
+### Current Version: 1.0.0
 
 Created by [Marc Hershey](https://github.com/marchershey)
 
 The MLH Simple PHP Login System is a very lightweight access control application. This project incudes a login form, registration form, and secured page. This was created for my own personal projects, but feel free to use it.
 
-## Installation
+### Installation
 
 Please see my [installation guide]() for help installing.
 
