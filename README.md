@@ -1,6 +1,6 @@
 # MLH - Simple PHP Login System
 
-### Current Version: 1.0.0
+### Current Version: 1.0.1
 
 Created by [Marc Hershey](https://github.com/marchershey)
 

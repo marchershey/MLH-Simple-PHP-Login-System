@@ -1,6 +1,6 @@
 # MLH - Simple PHP Login System
 
-**Current Installation Guide Version:** 1.0.0
+**Current Installation Guide Version:** 1.0.1
 
 ## Installation Guide
 
@@ -43,4 +43,4 @@ That's everything. Every file in the project is heavily documented so you should
 
 #### Securing Pages
 
-To secure a page, all you need to do is include the `php/init.php` file at the top of the page and then call the `securePage();` function. You can view it in action on the `secured-page.php` file. 
+To secure a page, all you need to do is include the `php/init.php` file at the top of the page and then call the `securePage();` function. You can view it in action on the `secured-page.php` file.

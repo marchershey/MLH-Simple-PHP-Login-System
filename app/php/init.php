@@ -2,7 +2,7 @@
 
   # MLH - Simple PHP Login System
   # Create by: Marc Hershey - https://github.com/marchershey
-  # Version: 1.0.0
+  # Version: 1.0.1
 
   session_start();
 
@@ -27,7 +27,7 @@
       'keyword' => 'MLH Simple PHP Login System' # Keywork Meta Tag
     ),
     'favicon' => array( # favicon details
-      'enabled' => true, # enable or disable your favicon (true, false)
+      'enabled' => false, # enable or disable your favicon (true, false)
       'path' => 'path/to/favicon.ico' # path/url to favicon ico file
     )
   );
@@ -44,7 +44,7 @@
       'minLength' => 6 # the minimum length the password must be
     ),
     # Debugging Options - More options will come in the near future
-    'error_reporting' => true, # If ture, PHP warnings will be displayed (true, false)
+    'error_reporting' => false, # If ture, PHP warnings will be displayed - this should only be true when debugging (true, false)
     # Encryption Options
     'encryption_options' => array(
       'cost' => 8 # Denotes the algorithmic cost that should be used during password encryption.
