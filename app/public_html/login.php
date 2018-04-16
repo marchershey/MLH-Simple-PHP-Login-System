@@ -60,14 +60,10 @@
 
             <div class="card-footer">
               <div class="row">
-                <div class="col-6">
-                  <a href="forgot-password.php">Forgot Password</a>
-                </div>
-                <!-- /.col-6 -->
-                <div class="col-6 float-right text-right">
+                <div class="col-12 text-center">
                   <a href="register.php">Create Account</a>
                 </div>
-                <!-- /.col-6 -->
+                <!-- /.col-12 .text-center -->
               </div>
               <!-- /.row -->
             </div>

@@ -1,6 +1,6 @@
 # MLH - Simple PHP Login System
 
-**Current Installation Guide Version:** 1.0.1
+**Current Installation Guide Version:** 1.0.2
 
 ## Installation Guide
 

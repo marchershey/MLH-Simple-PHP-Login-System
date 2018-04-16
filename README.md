@@ -1,6 +1,9 @@
 # MLH - Simple PHP Login System
 
-### Current Version: 1.0.1
+![Demo GIF](https://i.imgur.com/xRI0yeg.gif)
+
+### Current Version: 1.0.2
+
 
 Created by [Marc Hershey](https://github.com/marchershey)
 

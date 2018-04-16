@@ -2,7 +2,7 @@
 
   # MLH - Simple PHP Login System
   # Create by: Marc Hershey - https://github.com/marchershey
-  # Version: 1.0.1
+  # Version: 1.0.2
 
   session_start();
 
